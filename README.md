@@ -1,16 +1,7 @@
-# bitcoin
+# Coins
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1635511685](https://user-images.githubusercontent.com/64389727/139453638-ec713469-0cc7-4609-9517-bc583e4e7648.png)
+![Screenshot_1635511691](https://user-images.githubusercontent.com/64389727/139453660-3efa2a82-d7f0-4e4b-adf9-0c271d11c61c.png)
+![Screenshot_1635511694](https://user-images.githubusercontent.com/64389727/139453680-45ce8010-ddf2-41fc-a3fb-8173fa41e608.png)
